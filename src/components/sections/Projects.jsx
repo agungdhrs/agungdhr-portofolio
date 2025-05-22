@@ -32,7 +32,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="https://web-production-c128af.up.railway.app/"
+                  href="https://web-production-e2c49.up.railway.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
