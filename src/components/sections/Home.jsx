@@ -13,7 +13,12 @@ export const Home = () => {
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-          Aspiring Software Engineer with a passion for AI and Machine Learning. Currently honing my skills at ITB Swadharma, I thrive on solving complex problems through code and innovation
+            Enthusiastic and adaptable IT student with a strong interest in
+            Full-Stack Development, Cloud Computing, and Machine Learning.
+            Experienced in designing and deploying scalable web applications
+            using modern technologies including Next.js, Laravel, and Supabase.
+            Passionate about automating processes and leveraging AI integrations
+            to deliver efficient, user-focused technical solutions.
           </p>
           <div className="flex justify-center space-x-4">
             <a
